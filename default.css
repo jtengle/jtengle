@@ -1,0 +1,75 @@
+a:link{
+    color:yellow;
+}
+a:visited{
+    color: green;
+}
+
+p{
+    font-family: "Ariel", "Helvetica", sans-serif;
+    font-size: 14px;
+    font-style: bold;
+}
+
+h5{
+    color: red;
+    font-size: 24px;
+}
+hr {
+    width:50%;
+}
+#ex_1 {
+    position: absolute; top 100px; left: 200px;
+    background-color: white;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+   
+}
+
+body {
+    background-color: silver;
+}
+#pic_1 {
+    position: absolute; top 50px; left: 100px;
+    background-color: white;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
+#main {
+    background-color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+     width: 400px;
+}
+#cow {
+    position: absolute; top: 450px; left: 200px;
+}
+#pine {
+    position: absolute; top: 10px; left:800px;
+}
+#beer {
+    position: absolute; top: 450px; left: 350px;
+}
+#flipcow {
+    position: absolute; top: 475px; left: 825px;
+}
+#coff {
+    position: absolute; top: 500px; left: 1150px;
+}
+#sun {
+    position: absolute; top: 50px; left: 125px;
+}
+#sail {
+    position: absolute; top: 350px; left: 125px;
+}
+#book {
+    position: absolute; top: 350px; left: 1150px;
+}
+#car {
+    position: absolute; top: 100px; left: 825px;
+}
